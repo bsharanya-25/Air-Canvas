@@ -24,9 +24,10 @@ Follow these straightforward steps to set up and run the project:
    pip install numpy
    pip install mediapipe
     ```
-3.**Download the Project**: Download the project code and save it to a directory of your choice.
+   
+3. **Download the Project**: Download the project code and save it to a directory of your choice.
 
-4.**Run the Application**: Navigate to the project directory in your terminal or command prompt, and run the application using the command:
+4. **Run the Application**: Navigate to the project directory in your terminal or command prompt, and run the application using the command:
 ```bash
  python aircanvas.py
 ```
